@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd6ba9f5-f87c-42f7-ad0c-8481af5e3aad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/mapVsflatMap/MapVsFlatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/optionals/OptionalDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/optionals/OptionalDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/optionals/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/FunctionalInterface/InterfDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/FunctionalInterface/InterfDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/FunctionalInterface/InterfDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/FunctionalInterface/InterfDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/FunctionalInterface/InterfDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/FunctionalInterface/InterfDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/FunctionalInterface/InterfDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/FunctionalInterface/InterfDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/MethodRefrence/MethodReferenceDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/MethodRefrence/MethodReferenceDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/MethodRefrence/MethodReferenceDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/MethodRefrence/MethodReferenceDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/MethodRefrence/MethodReferenceDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/MethodRefrence/MethodReferenceDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/binaryOperators/binaryOperator/BinaryOperatorDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/binaryOperators/binaryOperator/BinaryOperatorDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/binaryOperators/primitiveBinaryOperator/DoubleBinaryOperatorDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/binaryOperators/primitiveBinaryOperator/DoubleBinaryOperatorDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/binaryOperators/primitiveBinaryOperator/IntBinaryOperatorDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/binaryOperators/primitiveBinaryOperator/IntBinaryOperatorDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/binaryOperators/primitiveBinaryOperator/LongBinaryOperatorDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/binaryOperators/primitiveBinaryOperator/LongBinaryOperatorDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/biConsumer/BiConsumerDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/biConsumer/BiConsumerDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/consumer/ConsumerDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/consumer/ConsumerDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/consumer/ConsumerDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/consumer/ConsumerDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/consumer/ConsumerDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/consumer/ConsumerDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/primitiveConsumers/type1/DoubleConsumerDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/primitiveConsumers/type1/DoubleConsumerDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/primitiveConsumers/type1/IntConsumerDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/primitiveConsumers/type1/IntConsumerDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/primitiveConsumers/type1/LongConsumerDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/primitiveConsumers/type1/LongConsumerDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/primitiveConsumers/type2/ObjDoubleConsumerDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/primitiveConsumers/type2/ObjDoubleConsumerDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/primitiveConsumers/type2/ObjIntConsumerDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/primitiveConsumers/type2/ObjIntConsumerDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/primitiveConsumers/type2/ObjLongConsumerDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/consumers/primitiveConsumers/type2/ObjLongConsumerDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/biFunction/BiFunctionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/biFunction/BiFunctionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/function/FunctionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/function/FunctionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/function/FunctionDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/function/FunctionDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/function/FunctionDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/function/FunctionDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type1/DoubleFunctionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type1/DoubleFunctionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type1/IntFunctionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type1/IntFunctionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type1/LongFunctionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type1/LongFunctionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type2/DoubleToIntFunctionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type2/DoubleToIntFunctionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type2/DoubleToLongFunctionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type2/DoubleToLongFunctionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type2/IntToDoubleFunctionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type2/IntToDoubleFunctionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type2/LongToDoubleFunctionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type2/LongToDoubleFunctionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type2/LongToIntFunctionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type2/LongToIntFunctionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type3/ToDoubleFunctionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type3/ToDoubleFunctionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type3/ToIntFunctionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type3/ToIntFunctionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type3/ToLongFunctionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type3/ToLongFunctionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type4/ToDoubleBiFunctionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type4/ToDoubleBiFunctionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type4/ToIntBiFunctionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type4/ToIntBiFunctionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type4/ToLongBiFunctionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/functions/primitiveFunctions/type4/ToLongBiFunctionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/lambda/LambdaDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/lambda/LambdaDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/lambda/LambdaDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/lambda/LambdaDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/lambda/LambdaDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/lambda/LambdaDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/lambda/LambdaDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/lambda/LambdaDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/lambda/LambdaDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/lambda/LambdaDemo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/lambda/LambdaDemo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/lambda/LambdaDemo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/predicates/biPredicate/BiPredicateDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/predicates/biPredicate/BiPredicateDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/predicates/predicate/PredicateDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/predicates/predicate/PredicateDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/predicates/predicate/PredicateDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/predicates/predicate/PredicateDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/predicates/predicate/PredicateDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/predicates/predicate/PredicateDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/predicates/primitivePredicates/DoublePredicateDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/predicates/primitivePredicates/DoublePredicateDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/predicates/primitivePredicates/IntPredicateDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/predicates/primitivePredicates/IntPredicateDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/predicates/primitivePredicates/LongPredicateDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/predicates/primitivePredicates/LongPredicateDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/streams/parallelStream/ParallelStreamDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/streams/parallelStream/ParallelStreamDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/streams/stream/StreamDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/streams/stream/StreamDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/streams/stream/StreamDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/streams/stream/StreamDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/suppliers/primitiveSuppliers/BooleanSupplierDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/suppliers/primitiveSuppliers/BooleanSupplierDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/suppliers/primitiveSuppliers/DoubleSupplierDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/suppliers/primitiveSuppliers/DoubleSupplierDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/suppliers/primitiveSuppliers/IntSupplierDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/suppliers/primitiveSuppliers/IntSupplierDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/suppliers/primitiveSuppliers/LongSupplierDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/suppliers/primitiveSuppliers/LongSupplierDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/suppliers/supplier/SupplierDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/suppliers/supplier/SupplierDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/suppliers/supplier/SupplierDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/suppliers/supplier/SupplierDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/suppliers/supplier/SupplierDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/suppliers/supplier/SupplierDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/suppliers/supplier/SupplierDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/suppliers/supplier/SupplierDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/unaryOperators/primitiveUnaryOperator/DoubleUnaryOperatorDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/unaryOperators/primitiveUnaryOperator/DoubleUnaryOperatorDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/unaryOperators/primitiveUnaryOperator/IntUnaryOperatorDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/unaryOperators/primitiveUnaryOperator/IntUnaryOperatorDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/unaryOperators/primitiveUnaryOperator/LongUnaryOperatorDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/unaryOperators/primitiveUnaryOperator/LongUnaryOperatorDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-8/src/com/ketul/unaryOperators/unaryOperator/UnaryOperatorDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-8/src/com/ketul/unaryOperators/unaryOperator/UnaryOperatorDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Palindrom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text-detection-in-image/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../text-detection-in-image/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text-detection-in-image/src/main/java/com/ketul/resource/TextResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../text-detection-in-image/src/main/java/com/ketul/resource/TextResource.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LBPDfmZoYpa3DxgrjJpz0kTVmI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/ketul/ketul/git/UrlsStatusCode",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/target" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ketul.Main" />
+      <module name="UrlsStatusCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ketul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd6ba9f5-f87c-42f7-ad0c-8481af5e3aad" name="Changes" comment="" />
+      <created>1675341387450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675341387450</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ketul/Main.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
